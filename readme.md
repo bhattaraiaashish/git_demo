@@ -1,6 +1,6 @@
 ### GIT DEMO PROJECT
 
--This repository demonstrate the use of get commands
+-This repository demonstrate the use of git commands
 -This is demo project \
  this is a file 
 
